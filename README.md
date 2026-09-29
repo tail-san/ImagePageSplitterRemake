@@ -34,8 +34,6 @@ All-in-one book digitization utility: Page Splitter, Auto-Trimming, WebP Batch C
 - **Auto-Trimming & Deskew**: Corrects tilted images and removes unnecessary margins effortlessly.
 
 ## 📥 How to Download
-## 📥 How to Download
-## 📥 How to Download
 1. Open the release page from the link below:
 👉 [Click here to go to the Download Page](https://github.com/tail-san/ImagePageSplitterRemake/releases/tag/v1.0.0)
 2. Download `ImagePageSplitterRemake-v1.0.0-win-x64.zip`.
