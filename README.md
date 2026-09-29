@@ -10,7 +10,10 @@ All-in-one book digitization utility: Page Splitter, Auto-Trimming, WebP Batch C
 ---
 
 ## 📥 ダウンロード方法 (Download)
-Releasesより `ImagePageSplitterRemake-v1.0.0-win-x64.zip` をダウンロードし、解凍して実行してください。
+1. 以下のリンク（公開ページ）を開きます。
+👉 [最新版のダウンロードページはこちら](https://github.com)
+2. 画面内にある `ImagePageSplitterRemake-v1.0.0-win-x64.zip` をクリックしてダウンロードします。
+3. ダウンロードしたzipファイルを解凍し、中にある実行ファイル（.exe）を起動してください。
 
 ---
 
@@ -31,8 +34,10 @@ Releasesより `ImagePageSplitterRemake-v1.0.0-win-x64.zip` をダウンロー�
 - **Auto-Trimming & Deskew**: Corrects tilted images and removes unnecessary margins effortlessly.
 
 ## 📥 How to Download
-1. Click on **"Releases"** on the right side of this GitHub page.
-2. Download the latest `ImagePageSplitterRemake-v1.0.0-win-x64.zip`.
+## 📥 How to Download
+1. Open the release page from the link below:
+👉 [Click here to go to the Download Page](https://github.com)
+2. Download `ImagePageSplitterRemake-v1.0.0-win-x64.zip`.
 3. Extract the zip file and run the executable file (.exe).
 *(Note: .NET 10 Desktop Runtime is required to run this software).*
 
