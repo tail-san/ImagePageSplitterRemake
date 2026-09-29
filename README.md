@@ -1,41 +1,24 @@
-# ImagePageSplitterRemake
-All-in-one book digitization utility: Page Splitter, Auto-Trimming, WebP Batch Converter &amp; Archive Extractor (.NET 10 / WPF)
-
 # ImagePageSplitterRemake v1.0.0
 
 自炊・電子化用 見開き画像分割＆WebP一括変換ツール（64-bit リメイク版）
 
-本ソフトウェアは、Apollomaniacs 様が開発された名作フリーソフト「ImagePageSplitter」を現代のPC環境向けに再構築した派生作品です。詳細やダウンロード手順は該当データをご参照ください。
+本ソフトウェアは、Apollomaniacs 様が開発・公開された「ImagePageSplitter」をベースに、.NET 10 / 64-bit 環境向けに機能強化・再構築（リメイク）した派生作品です。
 
 ---
 
-## 📥 ダウンロード方法 (Download)
-1. 以下のリンク（公開ページ）を開きます。
-👉 [最新版のダウンロードページはこちら](https://github.com/tail-san/ImagePageSplitterRemake/releases/tag/v1.0.0)
-2. 画面内にある `ImagePageSplitterRemake-v1.0.0-win-x64.zip` をクリックしてダウンロードします。
-3. ダウンロードしたzipファイルを解凍し、中にある実行ファイル（.exe）を起動してください。
+## 📥 ダウンロード・詳細はこちら (Download & Details)
+
+詳しい機能紹介、動作環境、および実行ファイルのダウンロードは以下の公開ページ（Releases）をご確認ください。
+
+👉 **[ImagePageSplitterRemake v1.0.0 ダウンロードページ](https://github.com/tail-san/ImagePageSplitterRemake/releases/tag/v1.0.0)**
 
 ---
 
-## ✨ 主な機能と特徴 (Features)
-- 見開き画像の自動2分割
-- Windows 11 / 10 (64-bit) 対応
-- WebP一括変換機能
-- アーカイブ自動解凍
-- トリミング＆傾き補正
+### ✨ 主な機能 (Features)
+- **見開き画像の自動2分割**（右開き・左開き対応）
+- **Windows 11 / 10 (64-bit)** への完全対応
+- **WebP一括変換機能**による容量削減
+- **アーカイブ自動解凍**（Zip等から直接処理）
+- **トリミング＆傾き補正**
 
-- ---
-
-## ✨ Features (機能)
-- **Automatic Page Splitting**: Automatically detects and splits double-page spreads into single pages (supports both right-to-left and left-to-right reading orders).
-- **Modern Windows 11 Support**: Fully optimized for Windows 11 and 10 (64-bit environment).
-- **WebP Batch Conversion**: Convert images to WebP format in bulk to save storage space while maintaining high quality.
-- **Archive Extractor**: Automatically extracts and processes zip and other archive formats directly.
-- **Auto-Trimming & Deskew**: Corrects tilted images and removes unnecessary margins effortlessly.
-
-## 📥 How to Download
-1. Open the release page from the link below:
-👉 [Click here to go to the Download Page](https://github.com/tail-san/ImagePageSplitterRemake/releases/tag/v1.0.0)
-2. Download `ImagePageSplitterRemake-v1.0.0-win-x64.zip`.
-3. Extract the zip file and run the executable file (.exe).
-*(Note: .NET 10 Desktop Runtime is required to run this software).*
+*An all-in-one book digitization utility: Page Splitter, Auto-Trimming, WebP Batch Converter & Archive Extractor (.NET 10 / WPF 64-bit).*
